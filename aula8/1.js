@@ -1,4 +1,5 @@
 const readlineSync = require('readline-sync');
+const lista = ["oi", "galera"]
 let run = true;
 let gradesSum = 0;
 let gradesTotal = 0;
