@@ -1,3 +1,4 @@
+// 3 - Calcular e imprimir os números divisíveis por 4 menores que 100.
 const numbers = [];
 for (let i = 0; i < 100; i++){
     if (i % 4 === 0){
