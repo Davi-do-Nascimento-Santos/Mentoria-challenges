@@ -1,3 +1,5 @@
+// 6 - Peça ao usuário para digitar vários nomes.
+// Exiba todos os nomes em ordem inversa ao digitado.
 const readlineSync = require('readline-sync');
 const people = [];
 let end = true;

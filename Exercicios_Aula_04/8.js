@@ -1,3 +1,5 @@
+// 8 - Crie um cardapio e peça ao usuário para selecionar os produtos e a quantidade.
+// Exiba o preço total no final.
 console.log('Coffee Shop');
 console.log('   Menu');
 console.log('1 - Coca Cola - R$ 4.00');
