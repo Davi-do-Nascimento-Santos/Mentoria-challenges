@@ -11,3 +11,4 @@ function remove(array, n=0){
     }
 }
 console.log(remove([1, 2, 3], 3));
+console.log(remove([1, 2, 3]));
