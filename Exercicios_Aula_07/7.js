@@ -1,3 +1,5 @@
+// 7 - crie um array com data de quando você foi à academia.
+// Crie uma função para verificar se você fez exercicio no dia 01/01/2021
 function first_exercise(array){
     const date = [01, 01, 2021];
     let cont = 0
