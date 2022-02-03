@@ -24,3 +24,4 @@ console.log(ordem([1, 2, 3]));
 console.log(ordem([3, 2, 1]));
 console.log(ordem([2, 1, 3]));
 console.log(ordem([1, 3, 2, 5, 4, 0]));
+console.log(ordem(['a', 'b', 'd', 'c']));
