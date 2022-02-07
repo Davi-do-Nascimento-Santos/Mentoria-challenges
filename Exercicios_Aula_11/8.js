@@ -19,3 +19,5 @@ console.log(rangeBetween(-10, 10));
 console.log(rangeBetween(4, 7));
 console.log(rangeBetween(-4, -7));
 console.log(rangeBetween(-7, -4));
+console.log(rangeBetween(4, -3));
+
