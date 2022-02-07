@@ -1,6 +1,6 @@
 // 3 - Crie uma função que recebe um array e  retorna o último elemento
 // desse array se nenhum outro argumento for passado, porém se outro
-// argumento for passado ela vai retornar os últimos "n" elementod do
+// argumento for passado ela vai retornar os últimos "n" elementos do
 // array.
 function first (array, n=0){
     if (Array.isArray(array) === true){
