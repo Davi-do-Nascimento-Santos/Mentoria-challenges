@@ -11,5 +11,5 @@ function vowels(str){
     return o;
 }
 
-const teste = 'The quick brown fox';
+const teste = 'THE QUICK BROWN FOX';
 console.log(vowels(teste));
